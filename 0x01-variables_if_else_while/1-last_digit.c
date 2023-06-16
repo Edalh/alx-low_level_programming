@@ -22,7 +22,7 @@ int lastDigit(int n)
 int main(void)
 {
 	int n, last_digit;
-	char l_d_o[] = "Last digit of"
+	char l_d_o[] = "Last digit of";
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
