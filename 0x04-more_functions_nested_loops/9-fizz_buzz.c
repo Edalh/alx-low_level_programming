@@ -19,7 +19,7 @@ int main(void)
 		else
 			printf("%i", n);
 
-		if (n < 100)
+		if (n < 99)
 			printf(" ");
 		else
 			printf("\n");
